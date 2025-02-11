@@ -25,24 +25,19 @@ This project presents a **Movie Recommender System** that leverages **Natural La
 
 Create a Virtual Environment (Optional but recommended):
 
-bash
-Copy
-Edit
 python3 -m venv venv
 source venv/bin/activate  # On Windows, use venv\Scripts\activate
-Install Dependencies:
 
-bash
-Copy
-Edit
+
+Install Dependencies:
 pip install -r requirements.txt
 Usage
-Run the Application:
 
-bash
-Copy
-Edit
+
+Run the Application:
 streamlit run app.py
+
+
 Interact with the Interface:
 
 Open your browser and navigate to the local URL provided by Streamlit (typically http://localhost:8501).
@@ -52,11 +47,16 @@ app.py: Main application script containing the Streamlit interface and recommend
 requirements.txt: List of Python dependencies required to run the application.
 data/: Directory containing datasets used for training and reference.
 models/: Directory for storing trained NLP models and related artifacts.
+
+
+
 How It Works
 Data Collection: Gathers movie data, including titles, genres, descriptions, and user reviews.
 NLP Processing: Applies Natural Language Processing techniques to analyze movie descriptions and user reviews to understand sentiment and thematic elements.
+
 User Input Analysis: Processes user inputs to capture preferences and desired movie attributes.
 Recommendation Generation: Matches user preferences against the processed movie data to suggest titles that align with the user's tastes.
+
 Contributing
 Contributions are welcome! If you have suggestions for improvements or encounter any issues, please feel free to open an issue or submit a pull request.
 
