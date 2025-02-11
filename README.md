@@ -57,7 +57,7 @@ NLP Processing: Applies Natural Language Processing techniques to analyze movie 
 User Input Analysis: Processes user inputs to capture preferences and desired movie attributes.
 Recommendation Generation: Matches user preferences against the processed movie data to suggest titles that align with the user's tastes.
 
-Contributing
+
 Contributions are welcome! If you have suggestions for improvements or encounter any issues, please feel free to open an issue or submit a pull request.
 
 License
