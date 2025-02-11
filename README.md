@@ -22,6 +22,7 @@ This project presents a **Movie Recommender System** that leverages **Natural La
    ```bash
    git clone https://github.com/SuryaVegesna27/Movie-Recommender-System.git
    cd Movie-Recommender-System
+
 Create a Virtual Environment (Optional but recommended):
 
 bash
@@ -62,6 +63,3 @@ Contributions are welcome! If you have suggestions for improvements or encounter
 License
 This project is licensed under the MIT License.
 
-Acknowledgements
-Streamlit for providing an excellent framework for building interactive applications.
-The open-source community for datasets and resources that made this project possible.
